@@ -6,3 +6,8 @@ DocuWoku (HTML Webpage)
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/55348957/215542170-b44d8fe5-3723-4dbb-a680-8674ac5a371a.png)
 
+
+2.Web Technology (First Page)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/55348957/215660962-b83a7d58-154b-40bd-ab35-796f959edfeb.png)
+
